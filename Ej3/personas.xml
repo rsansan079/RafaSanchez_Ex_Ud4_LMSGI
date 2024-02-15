@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE personas SYSTEM "/personas.xsd">
+<personas>
+    <persona>
+        <nombre>Eva</nombre>
+        <ciudad>Paris</ciudad>
+        <edad>25</edad>
+    </persona>
+    <persona>
+        <nombre>Giovanni</nombre>
+        <ciudad>Florencia</ciudad>
+        <edad>26</edad>
+    </persona>
+</personas>
